@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![zahadneokurkycz's GitHub stats](zahadneokurkycz)](https://github.com/zahadneokurkycz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahadneokurkycz)](https://github.com/zahadneokurkycz/)
 
 <!--
 **zahadneokurkycz/zahadneokurkycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
